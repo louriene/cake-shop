@@ -1,0 +1,36 @@
+body{
+     background-color: pink;
+     font-family: Arial, sans-serif;
+     margin: 20px;
+}
+a{
+     color: rgb(159, 100, 237);
+     text-decoration: none;
+     block-size: auto;
+}
+ h1{
+     background-color: plum;
+     color: black;
+     text-align: center;
+     margin-bottom: 20px;
+ }
+.content{
+     background-color:white ;
+     padding: 25px;
+     border-radius: 10px;
+     max-width: 700px;
+     margin: 0 auto;
+     text-align: center;
+}
+.content p{
+     font-size: 16px;
+     line-height: 1.6;
+     color:crimson;
+     margin-bottom: 15px;
+}
+.content img{
+     width: 300PX;
+     height: 300px;
+     border-radius: 8px;
+     margin: 10px 0;
+}
